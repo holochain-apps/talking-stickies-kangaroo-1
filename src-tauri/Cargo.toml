@@ -1,8 +1,8 @@
 [package]
-name = "replace-me" # replace-me
-version = "0.0.1" # replace-me -- Choose wisely, see "Note on Versioning" in README
-description = "A Tauri App"
-authors = ["you"]
+name = "kando" # replace-me
+version = "0.0.6" # replace-me -- Choose wisely, see "Note on Versioning" in README
+description = "Kanban for Holochain"
+authors = ["dev@holochain.org"]
 license = ""
 repository = ""
 edition = "2021"
