@@ -1,8 +1,6 @@
 # TalkingStickies Kangaroo - Holochain 0.1.6
 
-Put your Holochain App in this Kangaroo's tauri pouch and let it run around.
-
-This repository let's you easily convert your Holochain app into a standalone tauri-based cross-platform Desktop app.
+TalkingStickies in the Kangaroo
 
 **Holochain Version**: This branch uses Holochain version 0.1.6.
 
