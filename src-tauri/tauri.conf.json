@@ -6,8 +6,8 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "kando",
-    "version": "0.0.8"
+    "productName": "TalkingStickies",
+    "version": "0.0.1"
   },
   "tauri": {
     "allowlist": {
@@ -21,7 +21,7 @@
       }
     },
     "cli": {
-      "description": "Running kando from the command line",
+      "description": "Running TalkingStickies from the command line",
       "args": [
         {
           "name": "profile",
@@ -36,7 +36,7 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "org.holochain.apps.kando",
+      "identifier": "org.holochain.apps.talking-stickies",
       "icon": [
         "icons/32x32.png",
         "icons/128x128.png",

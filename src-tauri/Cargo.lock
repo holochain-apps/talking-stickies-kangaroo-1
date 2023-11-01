@@ -3793,35 +3793,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "kando"
-version = "0.0.8"
-dependencies = [
- "either",
- "futures",
- "holochain",
- "holochain_client",
- "holochain_types",
- "holochain_zome_types",
- "log",
- "log4rs",
- "mr_bundle",
- "nanoid 0.4.0",
- "opener",
- "portpicker",
- "semver 1.0.19",
- "serde",
- "serde_json",
- "sodoken",
- "symlink",
- "tauri",
- "tauri-build",
- "tauri-plugin-single-instance",
- "thiserror",
- "url 2.4.1",
- "url2",
-]
-
-[[package]]
 name = "kitsune_p2p"
 version = "0.1.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -7497,6 +7468,35 @@ dependencies = [
  "pkg-config",
  "toml 0.8.2",
  "version-compare 0.1.1",
+]
+
+[[package]]
+name = "talking-stickies"
+version = "0.0.1"
+dependencies = [
+ "either",
+ "futures",
+ "holochain",
+ "holochain_client",
+ "holochain_types",
+ "holochain_zome_types",
+ "log",
+ "log4rs",
+ "mr_bundle",
+ "nanoid 0.4.0",
+ "opener",
+ "portpicker",
+ "semver 1.0.19",
+ "serde",
+ "serde_json",
+ "sodoken",
+ "symlink",
+ "tauri",
+ "tauri-build",
+ "tauri-plugin-single-instance",
+ "thiserror",
+ "url 2.4.1",
+ "url2",
 ]
 
 [[package]]

@@ -1,6 +1,6 @@
 [package]
-name = "kando" # replace-me
-version = "0.0.8" # replace-me -- Choose wisely, see "Note on Versioning" in README
+name = "talking-stickies" # replace-me
+version = "0.0.1" # replace-me -- Choose wisely, see "Note on Versioning" in README
 description = "Kanban for Holochain"
 authors = ["dev@holochain.org"]
 license = ""
