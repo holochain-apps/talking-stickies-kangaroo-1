@@ -1,4 +1,4 @@
-# Kando Kangaroo - Holochain 0.1.6
+# TalkingStickies Kangaroo - Holochain 0.1.6
 
 Put your Holochain App in this Kangaroo's tauri pouch and let it run around.
 
